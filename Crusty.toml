@@ -13,4 +13,4 @@ glfw="3.3.2"
 
 [system_dependencies]
 linux=["m","pthread","X11","dl","GL"]
-
+windows=["Shell32","gdi32"]
